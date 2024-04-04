@@ -10,6 +10,8 @@ This project contains a simple Go HTTP server with three routes.
 
 3. **Form Route** (`/form`): This route is associated with the `form` function, which opens up a `form.html` file.
 
+![image](https://github.com/vhsenna/go-simple-http-server/assets/34524951/eddc71a8-d4f5-4e70-9275-1357fe744d73)
+
 ## Getting Started
 
 To run this server locally, follow these steps:
