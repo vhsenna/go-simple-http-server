@@ -20,15 +20,3 @@ To run this server locally, follow these steps:
 2. Navigate to the project directory.
 3. Run the server by executing the command `go run main.go`.
 4. Open your web browser and navigate to `http://localhost:8080`.
-
-## Dependencies
-
-This project does not require any external dependencies beyond Go's standard library.
-
-## Contributing
-
-Contributions to this project are welcome! If you find any bugs or have suggestions for improvements, feel free to open an issue or submit a pull request.
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
